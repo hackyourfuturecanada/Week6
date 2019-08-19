@@ -92,9 +92,10 @@ Example steps for question 4:
 
     6. Add a statement that adds Syeda’s favorite animal ('kitten') to the existing array.
 
-    7. Log your new array!
+    7. Log your new array
+    
 
-7. **More strings: Let's consider the following string: let myString = "this is a test".**
+7. **More strings: Let's consider the following string: `let myString = "this is a test"`.**
 
     1. Add the string to your file and console.log it.
 
@@ -118,8 +119,26 @@ Example steps for question 4:
 ```
 const grid = [[0, 1], [1, 1], [2, 1], [3, 1]];
 ```
-   1. How can I access the third item’s second element? i.e. [2, 1] is the third element, and I want to access 1. Add a console.log statement accessing this item.
+    1. How can I access the third item’s second element? i.e. [2, 1] is the third element, and I want to access 1. Add a console.log statement accessing this item.
 
-11. **If I have a variable counter, and I want to increment it by 2, what are three ways I can do this? Add three console.log statements with the three different ways.
-let counter = 0;**
+11. **If I have a variable counter, and I want to increment it by 2, what are three ways I can do this? Add three console.log statements with the three different ways.**
+```
+let counter = 0;
 console.log(‘first method’);
+```
+
+**12. Here’s a profile about a cat for adoption. 
+Create variables to hold information about this cat as shown on the profile 
+For example:**
+
+```
+const name = ‘Prince’;
+const bestFriend = ‘Thomas’;
+```
+
+![image](https://user-images.githubusercontent.com/1719156/63299661-4d5ee300-c2a4-11e9-808e-cf8bf310687e.png)
+
+
+**13. Create two variables -- one to hold the names of the kittens and one to hold the names of the adult cats. Make sure to choose an appropriate data type to hold this information!**
+
+![image](https://user-images.githubusercontent.com/1719156/63299743-8008db80-c2a4-11e9-9cb0-c101b5dbd2bf.png)
