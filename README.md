@@ -118,7 +118,7 @@ Example steps for question 4:
 ```
 const grid = [[0, 1], [1, 1], [2, 1], [3, 1]];
 ```
-    1. How can I access the third item’s second element? i.e. [2, 1] is the third element, and I want to access 1. Add a console.log statement accessing this item.
+   1. How can I access the third item’s second element? i.e. [2, 1] is the third element, and I want to access 1. Add a console.log statement accessing this item.
 
 11. **If I have a variable counter, and I want to increment it by 2, what are three ways I can do this? Add three console.log statements with the three different ways.
 let counter = 0;**
