@@ -115,11 +115,11 @@ Example steps for question 4:
 
     3. Add console.log statements to the above program in which you show that you understand the concepts (just like you've done in the above assignments).
 
-10. **I’ve declared a multidimensional array (an array inside an array):**
+10. **I’ve declared a multidimensional array (an array inside an array) -- see below. How can I access the third item’s second element? i.e. [2, 1] is the third element, and I want to access 1. Add a console.log statement accessing this item.**
 ```
 const grid = [[0, 1], [1, 1], [2, 1], [3, 1]];
 ```
-    1. How can I access the third item’s second element? i.e. [2, 1] is the third element, and I want to access 1. Add a console.log statement accessing this item.
+
 
 11. **If I have a variable counter, and I want to increment it by 2, what are three ways I can do this? Add three console.log statements with the three different ways.**
 ```
@@ -128,8 +128,7 @@ console.log(‘first method’);
 ```
 
 **12. Here’s a profile about a cat for adoption. 
-Create variables to hold information about this cat as shown on the profile 
-For example:**
+Create variables to hold information about this cat as shown on the profile. For example:**
 
 ```
 const name = ‘Prince’;
