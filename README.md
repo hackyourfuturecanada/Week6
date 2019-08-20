@@ -1,4 +1,4 @@
-**Due Date:**
+**Due Date:** Sunday, August 25, 2019 at 6:00 p.m.
 
 Complete the following assignment on JavaScript 1 and push your file to GitHub for reviewing by the instructor. 
 
