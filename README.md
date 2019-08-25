@@ -70,7 +70,7 @@ Example steps for question 4:
 
     2. console.log number.
 
-    3. Declare another variable roundedNumber that has the value of z but rounded to the nearest integer.
+    3. Declare another variable roundedNumber that has the value of number but rounded to the nearest integer.
 
     4. console.log number.
 
